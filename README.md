@@ -19,3 +19,6 @@ This is a simple console-based **Bank Account Management System** implemented in
 3. Run the executable (`./bank_account_system`).
 
 # Example Output
+`g++ main.cpp BankAccount.cpp -o bank_account_system
+./bank_account_system
+`
